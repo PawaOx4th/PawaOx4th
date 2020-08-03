@@ -6,7 +6,6 @@
 - 📫 How to reach me: pawaOx4th#gmail
 - 😄 "The destination isn't more important than the story on the way."
 - ⚡ Fun fact: LGBT(Gay)
--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawaOx4th&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PawaOx4th&show_icons=true&theme=Include)
