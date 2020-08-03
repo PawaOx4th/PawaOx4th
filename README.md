@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Kan 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning VueJs , Dart 
