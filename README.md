@@ -1,5 +1,9 @@
 ### Hi there, I'm Kan 👋
 
+　　🌎　°　　* .°• 🌕　•　　.°•　　　🚀 　　
+　　　★　*　　　🛰 🪐 °　　　　　°·　☄️　　🛸•　°★　•
+▁▂▃▄▅▆▇▇▆▅▄▃
+
 - 🔭 I’m currently find a Job Frontend Developer (Vue JS)
 - 🌱 I’m currently learning VueJs , Dart 
 - 💬 New Graduate Computer Engineering RMUTT 2019
