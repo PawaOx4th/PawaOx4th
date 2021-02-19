@@ -9,7 +9,7 @@
 - 📫 How to reach me: pawaOx4th#gmail
 - 😄 "The destination isn't more important than the story on the way."
 - ⚡ Fun fact: LGBT(Gay)
-https://img.shields.io/badge/Vue-PawaOx4th-green
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawaOx4th&layout=compact)
 
