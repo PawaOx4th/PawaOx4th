@@ -12,7 +12,7 @@
 
 ### Framework
 
-![enter image description here](https://img.shields.io/badge/Vue-v3.0.0-000000?style=flat-square&logo=vue.js&logoColor=ffffff&labelColor=47A248) ![](https://img.shields.io/badge/nuxt-2.5.0-00C58E?style=flat&logo=nuxt.js&labelColor=000000)
+![enter image description here](https://img.shields.io/badge/Vue-3.0.0-000000?style=flat-square&logo=vue.js&logoColor=ffffff&labelColor=47A248) ![](https://img.shields.io/badge/nuxt-2.5.0-00C58E?style=flat&logo=nuxt.js&labelColor=000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawaOx4th&layout=compact)
 
