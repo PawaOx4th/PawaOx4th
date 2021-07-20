@@ -3,9 +3,10 @@
 　　🌎　°　　* .°• 🌕　•　　.°•　　　🚀 　　
 　　　★　*　　　🛰 🪐 °　　　　　°·　☄️　　🛸•　°★　•
 
-- 🔭 I’m currently find a Job Frontend Developer (Vue JS)
-- 🌱 I’m currently learning VueJs , Dart 
-- 💬 New Graduate Computer Engineering RMUTT 2019
+- 🔭 I’m currently find a Job Frontend Developer (Vue.js and React).
+- 🌱 I’m like React, VueJs, Javascript, Typescript and Dart 
+- 💬 Graduate Computer Engineering RMUTT 2019
+- 💻 I'm Software engineer at KOS design thailand.
 - 📫 How to reach me: pawaOx4th#gmail
 - 😄 "The destination isn't more important than the story on the way."
 - ⚡ Fun fact: LGBT(Gay)
