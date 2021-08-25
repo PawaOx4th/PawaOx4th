@@ -21,7 +21,7 @@
 
 
 
-## Framework , Tools
+##  💻 Framework , Tools
 
 ![enter image description here](https://img.shields.io/badge/Vue-3.0.0-000000?style=flat-square&logo=vue.js&logoColor=ffffff&labelColor=47A248) ![](https://img.shields.io/badge/nuxt-2.5.0-00C58E?style=flat&logo=nuxt.js&labelColor=000000) ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=JavaScript&labelColor=000000) ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat) ![](https://img.shields.io/badge/-NEXT.JS-61DAFB?logo=Next.js&logoColor=white&style=for-the-badge&&color=black) ![](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -32,4 +32,10 @@
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Digital%20ocean-white?logo=DigitalOcean&logoColor=#0081FF&style=flat-square)
+
+##  💗 entertainment
+![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/user/21aue6mmncujyv6itt6jji5ra?si=2e4a428d3b9141fd)
+![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![](https://img.shields.io/badge/NETFLIX-E50914?style=for-the-badge&logo=Netflix&logoColor=white)
+![](https://img.shields.io/badge/Apple%20TV-black?style=for-the-badge&logo=Apple-TV&logoColor=white)
 
