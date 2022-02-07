@@ -40,6 +40,10 @@
 ![](https://img.shields.io/badge/Apple%20TV-black?style=for-the-badge&logo=Apple-TV&logoColor=white)
 
 
+## 📝 STATS
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=monokai)
+
+
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
