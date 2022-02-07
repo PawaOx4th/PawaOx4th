@@ -39,3 +39,6 @@
 ![](https://img.shields.io/badge/NETFLIX-E50914?style=for-the-badge&logo=Netflix&logoColor=white)
 ![](https://img.shields.io/badge/Apple%20TV-black?style=for-the-badge&logo=Apple-TV&logoColor=white)
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
