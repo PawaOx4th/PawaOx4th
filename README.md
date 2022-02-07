@@ -41,7 +41,7 @@
 
 
 ## 📝 STATS
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawaOx4th&theme=monokai)
 
 
 <!--START_SECTION:waka-->
