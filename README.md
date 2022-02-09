@@ -42,8 +42,8 @@
 
 ## 📝 STATS
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawaOx4th&theme=monokai)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawaOx4th&theme=monokai)
-![Repo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawaOx4th&theme=monokai)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PawaOx4th&theme=monokai)
+![Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PawaOx4th&theme=monokai)
 
 
 <!--START_SECTION:waka-->
