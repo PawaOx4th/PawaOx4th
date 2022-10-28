@@ -10,7 +10,7 @@
 - 📫 How to reach me: pawaOx4th#gmail
 - 😄 "The destination isn't more important than the story on the way."
 - 🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈 Fun fact: LGBTIQA+(Gay)
-- ![](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=flat-square&logo=apple&logoColor=white)
+- ![](https://img.shields.io/badge/Apple-MacBook_Pro_2022-999999?style=flat-square&logo=apple&logoColor=white)
 <a href="https://github.com/PawaOx4th"><img src="https://img.shields.io/badge/PawaOx4th-181717?style=flat&logo=github&logoColor=ffffff"></a>
 
 
